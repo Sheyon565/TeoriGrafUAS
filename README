@@ -1,0 +1,3 @@
+Installation step:
+1. Install all the requirement.txt
+2. Run lalulintas in streamlit with command: streamlit run lalulintas.py
